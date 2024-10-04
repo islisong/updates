@@ -1,0 +1,29 @@
+{
+ "signatures": [
+  {
+   "keyid": "84a6a24648479af37f76ca54406956a2f4b6152ac56c06da52899b6649a85080",
+   "sig": "72bc0a6b4d3c1ba2e35a5fb30a98f453c82ad66402422b755b37292009d6db9b185e980f413e1ad0afbb42bf6ebfe79b7b95c33f04f6edad0c201e94ee19ca0c"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2024-11-03T10:01:49Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "RealPhoneMatrix-1.0.1.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null,
+     "url": "https://github.com/islisong/updates/releases/download/untagged-c04cd24d504b2ace86ac/RealPhoneMatrix-1.0.1.tar.gz"
+    },
+    "hashes": {
+     "sha256": "93cb6bed2f4bf4795a5d7a7816e5c82efaf09595222d64d4344331334e4feb35"
+    },
+    "length": 803125675
+   }
+  },
+  "version": 3
+ }
+}
