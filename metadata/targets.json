@@ -10,7 +10,7 @@
   "expires": "2024-11-03T12:44:41Z",
   "spec_version": "1.0.31",
   "targets": {
-   "RealPhoneMatrix-2.0.3.tar.gz": {
+   "v2.0.3/RealPhoneMatrix-2.0.3.tar.gz": {
     "custom": {
      "tufup": {
       "required": false
