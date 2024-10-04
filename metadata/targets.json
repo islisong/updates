@@ -1,52 +1,30 @@
 {
  "signatures": [
   {
-   "keyid": "84a6a24648479af37f76ca54406956a2f4b6152ac56c06da52899b6649a85080",
-   "sig": "959b87e5ccd30e38bf13356be35a99720ef6f73ddf52698499af62a8727c59bbdf98550b98a6540d08c36cc43958f8639c4a38d21462ef2516508f9264cf2900"
+   "keyid": "1dc5a29ee4ef61f40de5527a7da97bd4b2793ec141d67f918aa90a73fc1adb50",
+   "sig": "ac673a8a3a1eb9a8302ba1f2e6405d5c985da60f4a7ebb5b6eb2708a3a7742ed0e3e20f7324e194974894b58a1f0a9233c4d545db4bf487a1b0f28eeb37df60c"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2024-11-03T13:03:10Z",
+  "expires": "2024-10-11T14:05:53Z",
   "spec_version": "1.0.31",
   "targets": {
-   "v2.0.4/RealPhoneMatrix-2.0.4.tar.gz": {
+   "RealPhoneMatrix-2.0.3.tar.gz": {
     "custom": {
      "tufup": {
       "required": false
      },
-     "user": null
+     "user": null,
+     "url": "https://github.com/islisong/updates/releases/download/v2.0.3/RealPhoneMatrix-2.0.3.tar.gz"
+
     },
     "hashes": {
-     "sha256": "52c51e0c98f3ce63dd03e271008a6a54d592e4eaad8489e1942465f89ca8669f"
+     "sha256": "c636e8f45d8f50ef0a78ade6cd6b558c36a1ff449573ded75777384aa8aca151"
     },
-    "length": 412916413
-   },
-   "v2.0.2/RealPhoneMatrix-2.0.2.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "1e3034e1f6098dbdf1fb7d00cb08fe773f3dee75df6eaae8e16850eeb1cbcd00"
-    },
-    "length": 412915806
-   },
-   "v2.0.3/RealPhoneMatrix-2.0.3.tar.gz": {
-    "custom": {
-     "tufup": {
-      "required": false
-     },
-     "user": null
-    },
-    "hashes": {
-     "sha256": "9296be54b1cfd7dc1896b23fbc5e7b58f6ed1273dc0b458e20aca212e1678ac8"
-    },
-    "length": 412917649
+    "length": 412929786
    }
   },
-  "version": 7
+  "version": 2
  }
 }
