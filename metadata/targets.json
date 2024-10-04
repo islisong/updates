@@ -2,15 +2,15 @@
  "signatures": [
   {
    "keyid": "84a6a24648479af37f76ca54406956a2f4b6152ac56c06da52899b6649a85080",
-   "sig": "2da4c5e1f2964a6d06fe07b505b8ecc9493aa57997dac1503e17a3130ee7c584871a65554b76fb678f17227fce8561e91439108500b30d8bf40c898d49642b0e"
+   "sig": "959b87e5ccd30e38bf13356be35a99720ef6f73ddf52698499af62a8727c59bbdf98550b98a6540d08c36cc43958f8639c4a38d21462ef2516508f9264cf2900"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2024-11-03T12:44:41Z",
+  "expires": "2024-11-03T13:03:10Z",
   "spec_version": "1.0.31",
   "targets": {
-   "v2.0.3/RealPhoneMatrix-2.0.3.tar.gz": {
+   "v2.0.4/RealPhoneMatrix-2.0.4.tar.gz": {
     "custom": {
      "tufup": {
       "required": false
@@ -18,9 +18,9 @@
      "user": null
     },
     "hashes": {
-     "sha256": "9296be54b1cfd7dc1896b23fbc5e7b58f6ed1273dc0b458e20aca212e1678ac8"
+     "sha256": "52c51e0c98f3ce63dd03e271008a6a54d592e4eaad8489e1942465f89ca8669f"
     },
-    "length": 412917649
+    "length": 412916413
    },
    "v2.0.2/RealPhoneMatrix-2.0.2.tar.gz": {
     "custom": {
@@ -33,8 +33,20 @@
      "sha256": "1e3034e1f6098dbdf1fb7d00cb08fe773f3dee75df6eaae8e16850eeb1cbcd00"
     },
     "length": 412915806
+   },
+   "v2.0.3/RealPhoneMatrix-2.0.3.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "9296be54b1cfd7dc1896b23fbc5e7b58f6ed1273dc0b458e20aca212e1678ac8"
+    },
+    "length": 412917649
    }
   },
-  "version": 6
+  "version": 7
  }
 }
